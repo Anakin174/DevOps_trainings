@@ -1,0 +1,1 @@
+<h1><p><script> document.write(new Date().toLocaleDateString());</script></p></h1>
